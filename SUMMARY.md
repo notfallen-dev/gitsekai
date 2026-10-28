@@ -1,10 +1,10 @@
 # Table of contents
 
-* [GitSEKAI](README.md)
+* [Silly Guide for Silly Server](README.md)
 
 ## Commands
 
-* [Available Commands](commands/available-commands.md)
+* [How to use](commands/how-to-use.md)
 * [/unlock](commands/unlock.md)
 * [/give](commands/give.md)
 * [/user-rank](commands/user-rank.md)
